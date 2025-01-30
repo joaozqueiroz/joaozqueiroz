@@ -1,4 +1,4 @@
-
+[
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a6a39a&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a6a39a&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+João+Victor+Queiroz;I'm+21+years+old;I+from+Brazil,+MT;I+study+analysis+systems+development+at+Unic;Be+Welcome!)](https://git.io/typing-svg)
@@ -41,3 +41,4 @@
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a6a39a&height=120&section=footer"/>
+](url)
